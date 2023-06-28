@@ -25,6 +25,6 @@ def show_session(key):
 
     return response
 
-if __name__ == '__main__':j
+if __name__ == '__main__':
     app.run(port=5555)
     
